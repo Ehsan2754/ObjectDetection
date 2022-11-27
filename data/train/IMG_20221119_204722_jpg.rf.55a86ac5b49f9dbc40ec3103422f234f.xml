@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>IMG_20221119_204722_jpg.rf.55a86ac5b49f9dbc40ec3103422f234f.jpg</filename>
+	<path>IMG_20221119_204722_jpg.rf.55a86ac5b49f9dbc40ec3103422f234f.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>king</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>75</xmin>
+			<xmax>242</xmax>
+			<ymin>98</ymin>
+			<ymax>207</ymax>
+		</bndbox>
+	</object>
+</annotation>

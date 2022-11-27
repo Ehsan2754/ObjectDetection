@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>IMG_20221119_205245_jpg.rf.810418c8f7d187bf8415c769cb8e3c0c.jpg</filename>
+	<path>IMG_20221119_205245_jpg.rf.810418c8f7d187bf8415c769cb8e3c0c.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tolstoy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>225</xmin>
+			<xmax>282</xmax>
+			<ymin>60</ymin>
+			<ymax>126</ymax>
+		</bndbox>
+	</object>
+</annotation>

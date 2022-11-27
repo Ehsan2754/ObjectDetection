@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>IMG_20221119_211539_jpg.rf.c314f2db46a3c6a2c5e387c0055e3d38.jpg</filename>
+	<path>IMG_20221119_211539_jpg.rf.c314f2db46a3c6a2c5e387c0055e3d38.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rosenberg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>89</xmin>
+			<xmax>217</xmax>
+			<ymin>61</ymin>
+			<ymax>235</ymax>
+		</bndbox>
+	</object>
+</annotation>

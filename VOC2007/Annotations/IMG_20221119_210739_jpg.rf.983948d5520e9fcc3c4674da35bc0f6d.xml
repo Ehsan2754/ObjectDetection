@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>IMG_20221119_210739_jpg.rf.983948d5520e9fcc3c4674da35bc0f6d.jpg</filename>
+	<path>IMG_20221119_210739_jpg.rf.983948d5520e9fcc3c4674da35bc0f6d.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rowling1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>46</xmin>
+			<xmax>166</xmax>
+			<ymin>107</ymin>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+</annotation>

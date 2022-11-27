@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>IMG_20221119_211405_jpg.rf.c0145d7900131a70c19617cdbf490b9e.jpg</filename>
+	<path>IMG_20221119_211405_jpg.rf.c0145d7900131a70c19617cdbf490b9e.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kassil</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>97</xmin>
+			<xmax>193</xmax>
+			<ymin>110</ymin>
+			<ymax>198</ymax>
+		</bndbox>
+	</object>
+</annotation>

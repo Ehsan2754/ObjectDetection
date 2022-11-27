@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>IMG_20221119_210831_jpg.rf.dbf4c7578be80f6f24967566183a4f16.jpg</filename>
+	<path>IMG_20221119_210831_jpg.rf.dbf4c7578be80f6f24967566183a4f16.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>karnegi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>60</xmin>
+			<xmax>179</xmax>
+			<ymin>72</ymin>
+			<ymax>221</ymax>
+		</bndbox>
+	</object>
+</annotation>
