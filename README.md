@@ -22,6 +22,9 @@ object recognition. In particular, YOLO and SSD neural net-
 works can recognize instances of different objects and highlight
 their bounding boxes in photos, even if there are several such
 instances, they have different sizes and partially overlap.
+Our purpose is to test these neural networks on our own
+dataset with images of books. Our goal is to recognize books and
+build bounding boxes for them using YOLO and SSD models.
 
 
 ## Dataset Host 
