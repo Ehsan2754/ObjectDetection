@@ -16,22 +16,23 @@ object detection
 
 
 
+
 # ObjectDetection
 
 
 * Free software: MIT license
 * Documentation: https://object-detection.readthedocs.io.
 
+Motivation
+------------
+Eva
 
-Features
---------
+Dataset Repo
+------------
+![roboflow](https://universe.roboflow.com/cv-yovjv/books-umdmd/dataset/4/images/)
 
-* TODO
+
 
 Credits
 -------
 
-This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypackage`_ project template.
-
-.. _Cookiecutter: https://github.com/audreyr/cookiecutter
-.. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
