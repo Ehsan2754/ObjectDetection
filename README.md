@@ -38,7 +38,7 @@ our notebooks will help you out in [here](./notebooks).
 
 ## Demo 
 
-![](./docs/result-gif.gif)
+![](/docs/result-gif.gif)
 
 
 ## Credits
